@@ -1,0 +1,152 @@
+Harry Potter and the Chamber of Secrets
+Rowling, J.K
+1234567890444
+2010
+Scholastic Publishing
+x
+100
+19.99
+The Dip
+Godin, Seth
+1591841666
+2007
+Portfolio
+h
+34
+9.99
+Jane Eyre
+Bronte, Charlotte
+1234567890123
+2010
+B&C Classic Publishing
+f
+100
+9.99
+Lord of the Rings
+Tolkien, J.R.R.
+1735463892001
+2010
+Reading Way Publishing
+x
+100
+11.99
+Harry Potter and the Cursed Child
+Rowling, J.K
+1234567890444
+2016
+Scholastic Publishing
+x
+100
+25.99
+Pride and Prejudice
+Austin, Jane
+1234556788900
+2011
+B&N Classic Publishing
+f
+100
+8.99
+How to Program in C++
+Richie, K
+1122334455667
+2009
+Computer Publishing
+h
+80
+6.00
+Zero K
+DeLillo,Don
+1122334455667
+2015
+Designer Book Publishing
+n
+100
+7.99
+Me Talk Pretty One Day
+Sedaris, David
+1166735540983
+2000
+Black Bay Books
+n
+45
+15.99
+Milk and Honey
+Kaur,Rupi
+6272294732910
+2005
+Clearing House Publishing
+f
+153
+9.99
+Money Master the Game
+Robbins,Tony
+0292822193892
+2009
+StreamWay Books, Inc.
+h
+54
+13.99
+The Walking Dead: Vol 1
+Kirkman,Robert
+8377281938891
+2008
+Kickass Inc.
+x
+96
+19.99
+A Tale of Two Cities
+Dickens, Charles
+8827366452210
+2007
+B&N Classic Publishing
+f
+88
+9.99
+The Count of Monte Cristo
+Dumas, Alexandre
+9985044523091
+2010
+B&N Classic Publishing
+f
+75
+10.99
+Alice’s Adventures in Wonderland
+Carroll, Lewis
+7027329025672
+2013
+Bicycle Book Inc.
+x
+120
+15.99
+The Obsession
+Roberts Nora
+3029319357892
+2008
+Edison Publishing Inc.
+r 
+78
+17.99
+Oliver's Adventure
+Honore, Stephanie
+2234563389765
+37
+Aussie Book Publishing
+x
+2016
+10.99
+Lost in Love
+Honore, Stephanie
+1234554678234
+94
+Cat Lady Books
+r
+2016
+14.99
+Oliver's Day at the Park
+Honore, Stephanie
+8825277219827
+62
+Aussie Book Publishing
+f
+2016
+8.99
